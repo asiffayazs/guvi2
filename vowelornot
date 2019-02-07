@@ -1,0 +1,5 @@
+a=input("input the letter")
+if a in('a','e','i','o','u'):
+  print("%s is a vowel" %1)
+  else:
+    print("%s is a constant" %1)
