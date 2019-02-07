@@ -1,5 +1,5 @@
-ch=raw_input("enter te character:")
+ch=raw_input("enter the character:")
 if(ch>='a' and ch<='z'):
-  print("alphabet")
+  print("Alphabet")
 else:
   print("No")
