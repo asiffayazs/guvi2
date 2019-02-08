@@ -1,7 +1,7 @@
-a=input().split()
+o=input().split()
 
 
-n=int(a[0])
-k=int (a[1])
+n=int(o[0])
+k=int (o[1])
 pow=n**k
 print(pow)
